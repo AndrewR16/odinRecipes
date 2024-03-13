@@ -1,0 +1,26 @@
+* {
+    background-color: #FDF5E6;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #8B4513;
+}
+
+h2,
+a {
+    color: #FF69B4;
+}
+
+a {
+    text-decoration: underline;
+}
+
+img {
+    background-color: #fae211;
+    border-radius: 7px;
+}
+
+#siteTitle {
+    text-decoration: underline;
+}
